@@ -16,58 +16,58 @@ Here are some ideas to get you started:
 -->
 
 ## 🚀 About Me
-I am a systems-driven engineer and continuous learner with a deep curiosity for how things work — from low-level infrastructure to high-level intelligent systems.
+I am a AI driven Software engineer and continuous learner with a deep curiosity for how things work — from low-level infrastructure to high-level intelligent systems.
 
 I believe in:
-🔁 Continuous learning and evolution
-🌐 Exploring knowledge across domains
-⚙️ Building scalable, reliable, and intelligent systems
+- 🔁 Continuous learning and evolution
+- 🌐 Exploring knowledge across domains
+- ⚙️ Building scalable, reliable, and intelligent systems
 
 ## 🧠 Interests & Focus Areas
 ### 🤖 Artificial Intelligence & GenAI
-Large Language Models (LLMs)
-Agentic AI Systems
-Retrieval-Augmented Generation (RAG)
-AI System Design & Integration
+- Large Language Models (LLMs)
+- Agentic AI Systems
+- Retrieval-Augmented Generation (RAG)
+- AI System Design & Integration
 
 ### ⚙️ Distributed Systems & Backend Engineering
-Scalable system architecture
-Caching & data grids (Infinispan, Redis)
-Messaging systems & async processing
-High availability & fault tolerance
+- Scalable system architecture
+- Caching & data grids (Infinispan, Redis)
+- Messaging systems & async processing
+- High availability & fault tolerance
 
 ### ☁️ DevOps & Cloud-Native Engineering
-Docker & Kubernetes
-CI/CD pipelines
-Infrastructure as Code
-Observability (metrics, logs, tracing)
+- Docker & Kubernetes
+- CI/CD pipelines
+- Infrastructure as Code
+- Observability (metrics, logs, tracing)
 
 ### 🔐 Security & Reliability
-Secure system design
-Identity & access management
-Zero-trust concepts
-Performance tuning & resilience
+- Secure system design
+- Identity & access management
+- Zero-trust concepts
+- Performance tuning & resilience
 
 ## 🧭 Philosophy
 ### 💡 "Curious about everything. Learning never stops."
 I aim to explore:
-The intersection of AI + Systems + Infrastructure
-Building intelligent, scalable, and secure platforms
-Understanding systems from first principles
+- The intersection of AI + Systems + Infrastructure
+- Building intelligent, scalable, and secure platforms
+- Understanding systems from first principles
 
 ### 🌱 Currently Exploring
-🧠 Agentic AI architectures
-🔄 AI + Distributed Systems integration
-🧪 Real-world system design patterns
-📊 Observability & intelligent monitoring
+- 🧠 Agentic AI architectures
+- 🔄 AI + Distributed Systems integration
+- 🧪 Real-world system design patterns
+- 📊 Observability & intelligent monitoring
 
 ## 🤝 Open Source
 ### 💚 I am actively open to contributing and collaborating on open-source projects.
 If you are working on:
-AI / GenAI projects
-Distributed systems
-Developer tools
-Infrastructure platforms
+- AI / GenAI projects
+- Distributed systems
+- Developer tools
+- Infrastructure platforms
 
 ### c👉 I’d love to collaborate and contribute.
 
